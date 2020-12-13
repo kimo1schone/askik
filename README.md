@@ -1,6 +1,22 @@
 # askik
+
+Views Stories
+Question Answer
+Poll Voting
+Emoji Slider
+Uses
+Unlimited real followers
+Unlimited real likes
+Increasing profile visits
+Incredible reach
+
+
+
+
+
+
 story mass viewer 
-طريقة التركيب 
+طريقة التركيب
 
 Follow These Steps for Installation
 
